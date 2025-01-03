@@ -1,6 +1,6 @@
 # 🍕 Projeto de Site de Compras de Pizza - Responsivo (Desktop & Mobile)
 
-Este projeto foi desenvolvido durante o curso da **B7Web** e tem como objetivo a criação de um site de compras de pizzas, com uma interface totalmente responsiva, funcionando perfeitamente tanto em **dispositivos móveis** quanto em **desktop**. A aplicação oferece funcionalidades de navegação, seleção de pizzas e carrinho de compras, proporcionando uma experiência prática e intuitiva para o usuário.
+Este projeto  tem como objetivo a criação de um site de compras de pizzas, com uma interface totalmente responsiva, funcionando perfeitamente tanto em **dispositivos móveis** quanto em **desktop**. A aplicação oferece funcionalidades de navegação, seleção de pizzas e carrinho de compras, proporcionando uma experiência prática e intuitiva para o usuário.
 
 ## 📑 Funcionalidades
 
@@ -35,6 +35,4 @@ Em dispositivos móveis, a navegação e o design são otimizados para toque, co
 Durante o desenvolvimento deste projeto, foram abordados conceitos importantes de **JavaScript**, com foco em responsividade, manipulação do DOM e boas práticas de código. Além disso, o projeto enfatiza a criação de uma interface amigável e funcional para o usuário, tanto em desktop quanto em dispositivos móveis.
 
 ---
-
-Projeto realizado como parte do curso de JavaScript da **B7Web**.
 
